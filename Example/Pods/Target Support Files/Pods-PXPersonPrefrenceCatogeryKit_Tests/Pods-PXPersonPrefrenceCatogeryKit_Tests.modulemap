@@ -1,0 +1,6 @@
+framework module Pods_PXPersonPrefrenceCatogeryKit_Tests {
+  umbrella header "Pods-PXPersonPrefrenceCatogeryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
